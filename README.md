@@ -1,2 +1,3 @@
 # Plutonium
-Disclaimer: This malware can destroy your computer and makes it unusable. This malware is for educational purposes only
+Disclaimer: Please do not use this malware on real machine! It super dangerous.
+This malware is for educational purposes only.
